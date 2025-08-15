@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "HQEC-Omega"
+version: 7.1.1
+date-released: 2025
+url: "https://github.com/KaworuHaitani?tab=repositories"
+repository-code: "https://github.com/KaworuHaitani?tab=repositories"
+abstract: "A theoretical framework unifying transcendental numbers, quantum information, and consciousness, with a mediating field that smoothly bridges gaps between scales. The theory introduces a hierarchical scale system with golden ratio modulation and includes comprehensive descriptions of field equations, scale hierarchy, and experimental verification."
+keywords:
+  - "quantum physics"
+  - "consciousness studies"
+  - "unified field theory"
+  - "mediating field"
+  - "golden ratio"
+  - "transcendental numbers"
+  - "quantum-classical transition"
+  - "scale hierarchy"
+references:
+  - type: website
+    url: "https://note.com/haitani_kaworu_s/n/n32dc4d29c29f"
+    title: "HQEC-Omega"
